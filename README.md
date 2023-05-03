@@ -5,5 +5,5 @@ Navigate to the folders by accessing the "Projects" folder. You should see the f
 - writable-ndef-msg: The NRF Connect application that possesses NFC and ble peripheral advertising functionalities
 - ble-central-connect: The PlatformIO application that is capable of detecting the advertisements from the peripheral functionality of the NRF Connect application and outputting callbacks when the NFC tag has been successfully read.
 
-Link to the Heroku Webpage Handling User Check-Ins: https://github.com/ik4vrb/django-assessment
+Link to the Heroku Webpage Handling User Check-Ins: https://github.com/ik4vrb/django-assessment <br/>
 Link to the Heroku Deployment: https://ik-polls-project.herokuapp.com/polls/
